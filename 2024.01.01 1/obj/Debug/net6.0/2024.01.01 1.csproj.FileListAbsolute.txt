@@ -1,0 +1,15 @@
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.csproj.AssemblyReference.cache
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.AssemblyInfoInputs.cache
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.AssemblyInfo.cs
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.csproj.CoreCompileInputs.cache
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\bin\Debug\net6.0\2024.01.01 1.exe
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\bin\Debug\net6.0\2024.01.01 1.deps.json
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\bin\Debug\net6.0\2024.01.01 1.runtimeconfig.json
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\bin\Debug\net6.0\2024.01.01 1.dll
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\bin\Debug\net6.0\2024.01.01 1.pdb
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.dll
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\refint\2024.01.01 1.dll
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.pdb
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\2024.01.01 1.genruntimeconfig.cache
+C:\Users\Logik\Desktop\GeekBrains_Practice\Stage_1\Introduction_languages\Seminars\Seminars\2024.01.01 1\obj\Debug\net6.0\ref\2024.01.01 1.dll
