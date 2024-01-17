@@ -30,3 +30,20 @@ for (int i = -n; i <= n; i++)
 {
     Console.Write(i + " ");
 }
+
+///Напишите программу, которая принимает на вход
+///трёхзначное целое число и на выходе показывает сумму
+///первой и последней цифры этого числа.
+
+Console.WriteLine("input number N:");
+int num = Convert.ToInt32(Console.ReadLine());
+if (num <= 999 && num >= 100)
+{
+    int one = num / 100;
+    int three = num % 10;
+    Console.WriteLine($"sum = {one + three}");
+}
+else
+{
+    Console.WriteLine("Введено не трёхзначное число");
+}
